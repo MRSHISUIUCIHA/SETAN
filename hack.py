@@ -23,7 +23,7 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = ' TKJ Black Hat </> Ac3p_Cyb3r '
+logo = ' MR SHSUI UCIHA HACK FB'
 
 def tik():
     titik = [
