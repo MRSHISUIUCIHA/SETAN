@@ -1,6 +1,6 @@
-figlet "Acep Gans"
+figlet "MR SHSUI UCIHA"
 echo ""
-echo "Sedang Menginstall Bahan Dulu"
+echo "Banyak nanyak lu"
 sleep 2
 apt update && apt upgrade -y
 pkg install python -y
